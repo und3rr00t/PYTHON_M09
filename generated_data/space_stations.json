@@ -1,0 +1,10 @@
+{
+  "station_id": "LGW125",
+  "name": "Titan Mining Outpost",
+  "crew_size": 6,
+  "power_level": 76.4,
+  "oxygen_level": 95.5,
+  "last_maintenance": "2023-07-11T00:00:00",
+  "is_operational": true,
+  "notes": null
+}
